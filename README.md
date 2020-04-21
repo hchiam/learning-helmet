@@ -6,7 +6,7 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 <https://github.com/helmetjs/helmet>
 
-## If you use `yarn`
+## If you use [`yarn`](https://github.com/hchiam/learning-yarn)
 
 ```bash
 yarn start

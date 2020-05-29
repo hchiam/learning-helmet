@@ -9,6 +9,7 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 ## If you use [`yarn`](https://github.com/hchiam/learning-yarn)
 
 ```bash
+yarn
 yarn start
 # and then when you're done:
 yarn stop
@@ -17,6 +18,7 @@ yarn stop
 ## If you use `node`
 
 ```bash
+npm install
 npm start
 # and then when you're done:
 npm stop

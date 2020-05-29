@@ -21,3 +21,7 @@ npm start
 # and then when you're done:
 npm stop
 ```
+
+## Just want to add auth to, say, your React app?
+
+<https://github.com/Swizec/useAuth>
